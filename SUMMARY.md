@@ -5,6 +5,7 @@
 ## Character Guides
 
 * [KQM](character-guides/kqm/README.md)
+  * [Anemo MC](character-guides/kqm/anemo-mc.md)
   * [Xiao](character-guides/kqm/xiao.md)
   * [Hu Tao](character-guides/kqm/hu-tao.md)
   * [Ganyu](character-guides/kqm/ganyu.md)
