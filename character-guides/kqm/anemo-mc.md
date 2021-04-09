@@ -26,6 +26,14 @@ It should also be stated that Anemo MC under no circumstances should be treated 
 
 _**Disclaimer: New findings are made everyday and the content discussed in this guide is subject to change, although unlikely. In addition, new tech is found for character mechanics and interactions with newly released characters may influence how this character can be played.**_
 
+## Credits 
+
+* Fluffy\#5580
+* 3b00d\_09\#2235
+* paimonbukeyi\#4732
+
+[**Discord.gg/Keqing**](https://discord.com/invite/keqing)\*\*\*\*
+
 ## Weapons
 
 The first most important factor in deciding what weapon to use is based on if you have **enough ER to cast Gust Surge off cooldown**. Anemo MC’s Elemental Burst is their **most important talent** and if that can’t be used off cooldown the best choice is to opt for an **ER substat weapon**. Personally, I would recommend **avoiding this and aiming for ER substats** if anything. If this is not an issue, opt for a more DPS oriented weapon.   
@@ -187,15 +195,7 @@ Ningguang is listed here as the same reason as Zhongli for his pillar. The edges
 
 Geo MC is listed for the same reason as Zhongli for his pillar. The Elemental Skill, Starfell Sword, can also stop Anemo MC’s Gust Surge in place.
 
-## Credits 
 
-* Fluffy\#5580
-* 3b00d\_09\#2235
-* paimonbukeyi\#4732
-
-
-
-**Discord.gg/keqing**
 
 
 
