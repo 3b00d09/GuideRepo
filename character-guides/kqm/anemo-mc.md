@@ -185,7 +185,7 @@ Anemo MC is a strong support to a Xiao carry team due to being a rare and F2P so
 
 ### Zhongli 
 
-Zhongli is an exceptional enabler to Anemo MC because of the pillar and bonus 20% shred. Not only does Zhongli buff Anemo MC’s damage, but he also increases the resistance shred overall provided to the team. The pillar can be used to stop Anemo MC’s Q and have it spin in place, which is useful for heavy mobs that can’t be pulled and for keeping small enemies close to you. Moreover, it is possible to knock enemies against the pillar with Palm Vortex, causing collision damage.
+Zhongli is an exceptional enabler to Anemo MC because of Stone Stele and bonus 20% shred. Not only does Zhongli buff Anemo MC’s damage, but he also increases the resistance shred overall provided to the team. The Stone Stele can be used to stop Anemo MC’s Q and have it spin in place, which is useful for heavy mobs that can’t be pulled and for keeping small enemies close to you. Moreover, it is possible to knock enemies against the Stone Stele with Palm Vortex, causing collision damage.
 
 ### Ningguang
 
